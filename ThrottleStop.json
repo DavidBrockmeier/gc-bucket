@@ -1,0 +1,20 @@
+{
+    "homepage": "https://www.techpowerup.com/download/techpowerup-throttlestop/",
+    "version": "8.50",
+    "url": "http://us2-dl.techpowerup.com/files/Zu_W-Ls1cEYUUZ4Kq6a72A/1521744555/ThrottleStop_850.zip",
+    "hash": "25BD4B77DB39623D668598B6A67894B114A04F8C172D062B276C9D59B2373E5F",
+    "bin": [
+        [
+            "ThrottleStop.exe"
+        ]
+    ],
+    "shortcuts": [
+        [
+            "ThrottleStop.exe"
+        ]
+    ],
+    "checkver": "ThrottleStop v([\\d.]+)",
+    "autoupdate": {
+        "url": "http://us2-dl.techpowerup.com/files/Zu_W-Ls1cEYUUZ4Kq6a72A/1521744555/ThrottleStop_$version.zip"
+    }
+}
