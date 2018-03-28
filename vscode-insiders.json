@@ -22,7 +22,7 @@
     "architecture": {
         "64bit": {
             "url": "https://vscode-update.azurewebsites.net/1.22.0-insider/win32-x64-archive/insider#/dl.7z",
-            "hash": "c219e2f79a7a1a081714bb83187d3fe28d117fccbbdd417cde7e317b973b2e0f"
+            "hash": "9ac0d9bac8b565a2910251d498d442186aa205dcb1e9633a3bfe644829e5faa1"
         },
         "32bit": {
             "url": "https://vscode-update.azurewebsites.net/1.22.0-insider/win32-archive/insider#/dl.7z",
@@ -34,14 +34,14 @@
             "64bit": {
                 "url": "https://vscode-update.azurewebsites.net/$version/win32-x64-archive/insider#/dl.7z",
                 "hash": {
-                    "url": "https://code.visualstudio.com/sha?build=stable",
+                    "url": "https://code.visualstudio.com/sha?build=insider",
                     "jp": "$.products[?(@.platform.os == 'win32-x64-archive')].sha256hash"
                 }
             },
             "32bit": {
                 "url": "https://vscode-update.azurewebsites.net/$version/win32-archive/insider#/dl.7z",
                 "hash": {
-                    "url": "https://code.visualstudio.com/sha?build=stable",
+                    "url": "https://code.visualstudio.com/sha?build=insider",
                     "jp": "$.products[?(@.platform.os == 'win32-archive')].sha256hash"
                 }
             }
