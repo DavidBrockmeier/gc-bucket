@@ -26,7 +26,7 @@
         },
         "32bit": {
             "url": "https://vscode-update.azurewebsites.net/1.22.0-insider/win32-archive/insider#/dl.7z",
-            "hash": "4aa0676d80ec8a3a836aefbd42aa4257a9d98102515a285d182f88343c4ff41e"
+            "hash": "c875b190ea790cca0721bed6e102ff658cedb62b4e1ebf93b0279997d18afdbb"
         }
     },
     "autoupdate": {
