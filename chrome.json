@@ -1,11 +1,12 @@
 {
-    "url": "https://enterprise.google.com/chrome/chrome-browser/thankyou.html?platform=win64msi",
     "homepage": "https://enterprise.google.com/chrome/chrome-browser/",
+    "version": "nightly",
+    "url": "https://enterprise.google.com/chrome/chrome-browser/thankyou.html?platform=win64msi",
     "bin": "chrome.exe",
     "shortcuts": [
         [
             "chrome.exe",
-            "Chrome"
+            "Google Chrome"
         ]
     ]
 }
