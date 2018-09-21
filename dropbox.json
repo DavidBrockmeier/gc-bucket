@@ -1,0 +1,8 @@
+{
+    "url": "https://www.dropbox.com/download?full=1&plat=win#/DropboxSetup.exe",
+    "version": "58.3.88",
+    "installer": {
+        "script": "Start-Process cmd -Verb Runas \"/c $dir\\DropboxSetup.exe /s\" -Wait -WindowStyle hidden"
+    },
+    "post_install": "remove-item \"$dir\\DropboxSetup.exe\""
+}
