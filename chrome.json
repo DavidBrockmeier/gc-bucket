@@ -1,7 +1,7 @@
 {
     "homepage": "https://enterprise.google.com/chrome/chrome-browser/",
     "version": "nightly",
-    "url": "https://enterprise.google.com/chrome/chrome-browser/thankyou.html?platform=win64msi",
+    "url": "https://dl.google.com/tag/s/dl/chrome/install/googlechromestandaloneenterprise64.msi",
     "bin": "chrome.exe",
     "shortcuts": [
         [
